@@ -31,7 +31,7 @@ Built a quarterly financial dashboard in Excel to help executives monitor revenu
 - Set benchmarks for quarterly growth
 
 ## 🖼 Dashboard Preview
-![Financial Dashboard](https://public.tableau.com/views/CompanyFinancialsTableauDashboard/FinancialDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Financial Dashboard](https://public.tableau.com/app/profile/deven.mbuyane/vizzes)
 
 ## 📬 Contact
 Made by **Deven Mbuyane**  
